@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True judgement, or, The spiritual-man judging all things, but he himself judged of no man. To them who are growing up into discerning and judgement: and to them, who cannot endure sound judgement.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84828</idno>
+            <idno type="STC">Wing F1967</idno>
+            <idno type="STC">Thomason E808_12</idno>
+            <idno type="STC">ESTC R202180</idno>
+            <idno type="EEBO-CITATION">99862572</idno>
+            <idno type="PROQUEST">99862572</idno>
+            <idno type="VID">167899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E808[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True judgement, or, The spiritual-man judging all things, but he himself judged of no man. To them who are growing up into discerning and judgement: and to them, who cannot endure sound judgement.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Fox.</note>
+                  <note>Annotation on Thomason copy: "Aug: 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Christian life --  Protestant authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167899:1" rendition="simple:additions"/>
+            <p>TRUE IVDGEMENT, OR, The Spiritual-Man Iudging all THINGS, But he himſelf Judged of NO MAN.</p>
+            <p>To them who are growing up into diſcern<g ref="char:EOLhyphen"/>ing and Judgement: And to them, who cannot endure ſound Judgement.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black <hi>ſpread-Eagle,</hi> at the Weſt end of <hi>Pauls,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167899:2"/>
+            <pb n="1" facs="tcp:167899:2"/>
+            <head>TRUE IVDGEMENT, OR THE Spiritual-man Iudging all THINGS: But He himſelf Judged of no MAN.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am moved to write forth a few things for the ſimple ones ſake, who are growing up in Judgement, and the light is ſpringing, by which they do ſee; to the ſtaying their minds upon the living God, to the intent they may look into the world, who are ignorant of the Let<g ref="char:EOLhyphen"/>ter, the Prophets, Apoſtles, and Chriſts condition; ſhewing themſelves to be in the generation from God, which the Apoſtles ſpoke againſt, and Chriſt.</p>
+            <pb n="2" facs="tcp:167899:3"/>
+            <p>Firſt, You ſhew your ſelves that you cannot endure ſound doctrine, in telling you where you are, and what you are, what you hold up, and what you worſhip.</p>
+            <p>Secondly, You ſhew your ſelves to be thoſe that have not ſalt to ſavour withal; and he that hath not ſalt to ſavour withall, is good for nothing, but to be trodden under foot of men.</p>
+            <p>Thirdly, You are amongſt thoſe falſe Prophets, and Prieſts, that bear rule by their Means, and propheſie for money; which ſpeak ſmooth things, and ſow pillows under your Arm-holes; who ſpeak a Divination of their own brain, and not from the mouth of the Lord: The Lord ſent his Prophets to diſtinguiſh and judge, to put a difference betwixt the holy, and profane, be<g ref="char:EOLhyphen"/>twixt the precious and the vile.</p>
+            <p>Fourthly, You are amongſt them that ſeek for their gain from their quarter, and ſpend your money for that which is not bread; ſo call evil good, and good evil; and put light for darkneſs, and darkneſs for light; ſuch were in their generation formerly, ſuch are in your generation now, in nature; ſo you are lofty and haugh<g ref="char:EOLhyphen"/>ty, and do oppreſs the Innocent and Juſt: here the Prophet, and Prophets, were able to judge, to make a difference between the precious and the vile, the clean and the unclean; and ſaid, this is the man whom the Lord regards, who is of an humble and bro<g ref="char:EOLhyphen"/>ken heart, and trembleth at my word; here is true Judgement: and the ſame Prophet ſaid, all the children of the Lord, are taught of the Lord, and eſtabliſhed in righteouſneſs, which the Prophets of the world deny.</p>
+            <p>Fifthly, You are amongſt ſuch, and follow ſuch as ſeek for the Fleece, who make a prey upon you, and cloth themſelves with the wool, and are wandring abroad in the cloudy and dark day: the Lord ſent the Son of man, which was the Prophet to Judge them, Judge them a Son of man, who was to put a difference between the holy and profane.</p>
+            <p>Sixthly, You are amongſt them, and follow ſuch as are Hirelings, which the Lord ſent his Prophets to cry againſt, who bite with their teeth, and cry peace, peace, if you put into their mouths; if not, they prepare war againſt you, as you may ſee by your Teachers.</p>
+            <p>Seventhly, You are ſuch as hold up the Idols Temple, in the
+<pb n="3" facs="tcp:167899:3"/>outward, which the Lord ſent his Prophet <hi>Hoſea</hi> to cry againſt; ſo you have many fenced Cities, but the Lord will ſend a fire to conſume them; here was a ſavour and diſcerning of them, who had forgot the Lord; then they builded Temples: here was true Judgement upon them that had backſlided and forſaken the Lord God; do not think your ſelves wiſer in your generation then your forefathers, but ſottiſher, as the Prophet ſaith, <hi>Sottiſh children.</hi>
+            </p>
+            <p>Eighthly, You are amongſt them, and follow ſuch Prophets as walk out of the commands of God; as I ſhall make it appear hereafter, whoſe bleſſings are curſed, whoſe ſeed is corrupt; the Lord will ſpread dung upon their faces, who call the proud hap<g ref="char:EOLhyphen"/>py, and in this generation you are Prieſts and People; he had true Judgement that Judged this; and diſcerning and ſalt, who ſpoke of a people that feared the Lord, and thought upon his Name, and met often together, <hi>and they ſhall be mine ſaith the Lord, in that day that I make up my Jewels:</hi> And this we witneſs to be true, as the Scripture ſpeaks: And you are in that condition, holding up the Songs of the Temple, which the Lord ſent <hi>Amos</hi> to cry againſt, ſaying, <hi>that their ſongs ſhould be turned into howling;</hi> and of all their unjuſt dealings, who when he was queſtioned what he was, he ſaid he was a Heardſman; ſuch an one now would be an abomination to you, he had a ſpirit of diſcerning.</p>
+            <p>Ninthly, You are amongſt them, and hold ſuch up as <hi>are called of men Maſters, ſtand praying in the Synagogues, love ſalutations in the Markets; which lay heavy burdens upon the people, and de<g ref="char:EOLhyphen"/>vour widows houſes with a pretence, making long prayers;</hi> which our Lord Jeſus Chriſt forbad and denyed, and cryed woe againſt. And this ſpoke he to the multitude, and to his Diſciples, and bid them beware of the Scribes, and Phariſees, and their doctrine; and yet you profeſs Chriſt, and make him your cloak, and yet you hold up the doctrine of the Phariſees, which Chriſt cryed woe againſt; ſhewing your ſelves to be in that generation which perſecute the Truth, as they did.</p>
+            <p>Tenthly, You are in that nature that they were in that ſtoned <hi>Stephen</hi> to death; when he came to be examined before the Prieſts, they ſaid he ſpoke againſt the holy Temple, and the Law; and when he denied the Temple, and ſhewed the figures they lived in, they run and gnaſhed upon him with their teeth, and ſtoned him to death; you have made it openly appear in <hi>England,</hi> in divers
+<pb n="4" facs="tcp:167899:4"/>places, in halling out of your Temples, and ſtoning, and ſtriking; bunching, beating, and impriſoning, but the mighty power of the mighty God preſerves his Lambs from blood ſuckers, and this blood-thirſty generation a ſeed of evil doers.</p>
+            <p>Now do not call this r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh Judgement, its Scripture language, you are amongſt them that run af<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <hi>Balaam,</hi> and go in the way of <hi>Cain,</hi> who erred from the Truth, and he that erred from the Truth, lived in envy (ſo do you ſtill) who ſought to murther the righteous where ever it was brought forth, as your generation doth which hath erred from the truth, in the way of <hi>Cain,</hi> to murther and deſtroy the righteous where its brought forth, who walks out of the commands of God and the Prophets; here they had ſavour and true Judgement, and ſalt in themſelves; and did ex<g ref="char:EOLhyphen"/>hort to true Judgement, and to have ſalt in themſelves, to ſavour withall; the falſe Prophets, the falſe Apoſtles, the Antichriſts, they have not a diſcerning, they have not a ſavour, and do not ſpeak from the mouth of the Lord; But the true Prophets, Apoſtles, and Chriſt, theſe had all ſavour and diſcerning, to Judge between light and darkneſs, truth from evil, as they grew up in the truth, and meaſure; and they ſaw who was the beaſt, which all the world wonders after, and who had their names written in the book of life; here was Judgement and diſtinguiſhing, which the falſe Prophets had not, nor have not now; they knew election, reprobation, and condemnation, which none of the falſe Prophets of the world knew; and they ſaw who was without the truth, and ſome they called beaſts, ſome dogs, and ſome they called ſwine, ſome wolves, ſome they called Lyons, ſome as fed horſes, neigh<g ref="char:EOLhyphen"/>ing after their luſts, and neighbours wives, ſome as wilde Aſſes, ſnuffing up their noſes in the Air, ſome as tall Cedars, ſome as ſtrong Oaks, ſome as fat Bulls, ſome full of poiſon, ſome a gene<g ref="char:EOLhyphen"/>ration of vipers (yet ſuch would confeſs <hi>Abraham</hi>) and ſome as deaf adders; ſome are called the children of the devill; they are called the children of the devil, which are not the children of God, and all theſe natures are amongſt you, you cannot deny it, in your generations, which holds up the outward worſhip, Prieſts and People, Profeſſors, Rulers, and Magiſtrates, ſo called. Now do not call this railing, its Scripture language, given forth by the eternal ſpirit, true figures upon that nature, and generation
+<pb n="5" facs="tcp:167899:4"/>which was from God, having an eternal Judgement: Now to call a dog a Lamb, it were a lye; and to call a horſe a ſheep, were a lye; or to call a ſerpent a dove, were a lye; but the true ſervants of God had true Iudgement and diſcerning, to ſpeak theſe names in their places, to its nature; but you in your generation, give theſe names upon them which are in the ſame nature that gave them forth, for that is falſe Iudgement, which cannot abide reproof, nor ſound doctrine: God is come, and coming to put a difference betwixt the clean, and the unclean, and between the profane and holy, and between thoſe that ſerve him, and thoſe that ſerve him not; this is Scripture language, which the wicked cannot bear in practice, and life, nor to hear their conditions in words ſpoken to them.</p>
+            <p>This was I moved to write forth to them that are without, and them that are within, that are growing up into Iudgement, and to them that do not underſtand Iudgement, that their minds may be informed to examine where they are, by the light of God within them; the Lord is making a ſeparation, whether you be ſeparated from God, or to God, the light within will tell you, and that which ſhould exerciſe your conſcience, will tell you, hearkening to it; but that generation is ſeparated from God, I do know, in which lodgeth perſecution, and all the righteous blood hath been ſhed by this generation, that now is ſtanding in nature, who drink the blood of the Saints, and make war with the Lamb, but the Lamb ſhall get the victory; praiſes, praiſes be to the Lord God Almighty.</p>
+            <p>Thou art blind that canſt not diſcern betwixt <hi>Iacob</hi> and <hi>Eſau;</hi> and thou art blind that ſayeſt <hi>Iacob</hi> is <hi>Eſau;</hi> and thou art blind that ſayeſt <hi>Cain</hi> is <hi>Abel;</hi> and thou art blind that ſayeſt <hi>Iſhmael</hi> is <hi>Iſaac;</hi> and thou art blind that ſayeſt ſuch as are called of men Maſters, ſtand praying in the Synogogues, lay heavy burdens upon the people, are the Miniſters of Chriſt, which Chriſt cry<g ref="char:EOLhyphen"/>ed woe againſt: And thou art blind are fooliſh,
+<note place="margin">Ier. 5.</note> that holdeſt up ſuch Prieſts, as bear rule by their means; and thou art blind, and art made a prey upon, that holdeſt up ſuch ſhepherds as ſeek for the Fleece, and cloath with the wool, which the Lord ſent his Prophets to cry againſt; and thou art blind that ſayeſt, ſuch as ſeek for their gain from their quarter, and run greedily after the
+<pb n="6" facs="tcp:167899:5"/>error of <hi>Balaam,</hi> for gifts and rewards, are the Miniſters of Chriſt; And the Scripture will teſtifie againſt thee it ſelf; and thou own<g ref="char:EOLhyphen"/>eſt not the Prophets and Apoſtles, but art againſt them, and ſo into the ditch thou muſt go, into deſtruction (who art blind, and led with the blind) except thou ſpeedily repent.</p>
+            <p>Chriſts ſheep know his voice, and they know the voice of a ſtranger: the true Prophets knew who ſpoke from the mouth of the Lord, and who ſpoke a divination of their own brain; ſo it is now; the Saints that are ſeaſoned, have ſalt in themſelves, have ſavoury to diſcern of others; and to ſome is given the gift of diſ<g ref="char:EOLhyphen"/>cerning of Spirits; <hi>And the ſpiritual man judgeth all things, but he himſelf is judged of no man; he that cannot endure ſound Judge<g ref="char:EOLhyphen"/>ment, is not of the truth, for Zion is redeemed through judgement, and they that ſew pillows, are falſe Prophets:</hi> therefore every one own your <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgement and your Portion, and ſuch a name as be<g ref="char:EOLhyphen"/>longs to your nature, and deceive not your ſelves nor others, for the Saints know that they are of God, and that the whole world, Prieſts, People, and Profeſſors, who have not the life of what they do profeſs, lye in wickedneſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
